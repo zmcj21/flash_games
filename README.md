@@ -17,3 +17,25 @@ FlashPoint : https://bluemaxima.org/flashpoint/
 造梦西游 : https://github.com/zmcj21/zmxy_res
 
 Boxhead : https://github.com/zmcj21/boxhead_res
+
+### 国内的Flash游戏网站：
+
+4399：http://www.4399.com/
+
+7K7K：http://www.7k7k.com/
+
+### 国外的Flash游戏网站：
+
+Armor Games : https://armorgames.com/
+
+CrazyMonkeyGames : https://www.crazymonkeygames.com/
+
+Kongregate : https://www.kongregate.com/
+
+MaxGames : http://maxgames.com/
+
+TwoPlayerGames : https://www.twoplayergames.org/
+
+Poki : https://poki.com/
+
+Itch : https://itch.io/
