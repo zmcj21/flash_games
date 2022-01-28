@@ -22,6 +22,12 @@ Boxhead : https://github.com/zmcj21/boxhead_res
 
 战争进化史作者：https://louissi.newgrounds.com/
 
+战火英雄作者：http://sky9games.com/blog/
+
+龙拳作者：http://www.benoldinggames.co.uk/
+
+僵尸危机作者：https://www.seantcooper.com/
+
 ### 国内的Flash游戏网站：
 
 4399：http://www.4399.com/
