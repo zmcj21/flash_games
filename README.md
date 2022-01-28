@@ -18,6 +18,10 @@ FlashPoint : https://bluemaxima.org/flashpoint/
 
 Boxhead : https://github.com/zmcj21/boxhead_res
 
+### Flash游戏作者网站：
+
+战争进化史作者：https://louissi.newgrounds.com/
+
 ### 国内的Flash游戏网站：
 
 4399：http://www.4399.com/
@@ -39,3 +43,5 @@ TwoPlayerGames : https://www.twoplayergames.org/
 Poki : https://poki.com/
 
 Itch : https://itch.io/
+
+NewGrounds : https://www.newgrounds.com/
