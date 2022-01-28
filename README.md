@@ -28,6 +28,8 @@ Boxhead : https://github.com/zmcj21/boxhead_res
 
 僵尸危机作者：https://www.seantcooper.com/
 
+最后的战役&战争1917/1944作者：https://conartistgames.com/
+
 ### 国内的Flash游戏网站：
 
 4399：http://www.4399.com/
